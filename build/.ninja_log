@@ -1,0 +1,7 @@
+# ninja log v5
+1	300	1793981427271413461	CMakeFiles/unit_tests.dir/tests/test.cpp.o	93c0ff65c4790253
+1	317	1793981427288414075	CMakeFiles/main_app.dir/src/main.cpp.o	877c15ba04c20ca1
+1	330	1793981427302414581	CMakeFiles/main_app.dir/src/json_parser.cpp.o	1521c007c3135c6c
+2	344	1793981427316692905	CMakeFiles/unit_tests.dir/src/json_parser.cpp.o	9fbf903e5f571168
+330	375	1793981427346858074	main_app	48b49d49ce08d597
+344	387	1793981427358744813	unit_tests	4e31c94e1e48bcd0
